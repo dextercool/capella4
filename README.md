@@ -18,3 +18,4 @@ Fitur-fitur ini akan selalu berkembang, seiring dengan perkembangan bisnis prose
 
 Bugs
 Silahkan ditest, dan diupdate ke sini, disertakan juga nama dan alamat email
+user: admin, pass: qwerty
